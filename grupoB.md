@@ -1,2 +1,2 @@
 Archivo del grupo B.
-Lucas ::.
+Lucas ::
