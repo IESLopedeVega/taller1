@@ -1,3 +1,5 @@
 Archivo del grupo C.
-Hola , soy Jair :D
 hola soy gian 🍺
+Soy Álvaro Barreno 🤖
+Jolina 😈
+Hola , soy Jair :D
