@@ -1,2 +1,8 @@
 Archivo del grupo B.
-Lucas ::
+feature/grupo-b
+
+Lucas 🙃
+Alejandro🤓
+Pierangelo 🙌
+Reyes👌
+Mario ✅
